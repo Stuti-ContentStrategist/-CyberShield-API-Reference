@@ -2,7 +2,8 @@
 
 ## 🧱 Overview
 
-The **CyberShield API Reference** provides complete technical details for developers integrating CyberShield’s security and monitoring capabilities into their own applications and systems.\
+The **CyberShield API Reference** provides complete technical details for developers integrating CyberShield’s security and monitoring capabilities into their own applications and systems.&#x20;
+
 It explains authentication, endpoint usage, parameters, and response formats — enabling you to automate actions such as starting scans, retrieving results, and managing alerts programmatically.
 
 💡 **Tip:** If you’re using the **CyberShield SDK**, start with the [Developer Reference](https://app.gitbook.com/s/Jh7uJN5ZgBV4FyWQnmId/developer-reference) → [Integration Setup ](https://app.gitbook.com/s/Jh7uJN5ZgBV4FyWQnmId/developer-reference/integration-setup)before accessing API endpoints.
@@ -26,7 +27,7 @@ https://api.cybershield.io/v1/
 CyberShield APIs use **Bearer Token authentication**.\
 Before calling any endpoint, you must generate a valid token using your API Key and Secret.
 
-📘 Learn more → [CyberShield API Reference](./) → [Authentication](authentication.md)
+📘 Learn more → [**CyberShield API Reference**](./) → [**Authentication**](authentication.md)
 
 ***
 
@@ -71,9 +72,9 @@ Her work focuses on creating **intuitive documentation systems** that help users
 
 #### **Connect with the Author:**
 
-[💼 LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
-[💌 Email](mailto:stutisanghvi7@gmail.in)\
-[🌐 Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
-[🔗 GitHub](https://github.com/Stuti-ContentStrategist)
+[**💼 LinkedIn**](https://linkedin.com/in/stuti-sanghvi)\
+[**💌 Email**](mailto:stutisanghvi7@gmail.in)\
+[**🌐 Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
+[**🔗 GitHub**](https://github.com/Stuti-ContentStrategist)
 
-Learn more → [About the Author](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
+Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
