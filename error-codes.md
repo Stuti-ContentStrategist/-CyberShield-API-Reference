@@ -66,4 +66,6 @@ You now understand how to:
 * Handle request/response formats and error codes
 * Integrate CyberShield services into your applications programmatically
 
-For version-specific updates, visit the[ **CyberShield Release Notes**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/Z935hdhlRtsmGr5SnVj1/) section.
+For a live, deployed version of the SDK and API docs, explore the [CyberShield Live Developer Portal (Hosted).](https://app.gitbook.com/o/SxHNjM53o1ERQTNaTYLB/s/skGRAhvZg38Dk71PYax3/)
+
+####
