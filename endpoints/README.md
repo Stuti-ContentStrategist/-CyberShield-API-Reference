@@ -1,6 +1,6 @@
-# ⚙️ Endpoints
+# Endpoints
 
-#### 🧱 Overview
+## Overview
 
 This section describes CyberShield’s REST API endpoints for managing security scans, retrieving status updates, viewing alerts, and generating reports.
 
@@ -51,7 +51,7 @@ Content-Type: application/json
 
 ***
 
-### 📊 2. Get Scan Status
+### 2. Get Scan Status
 
 Retrieves the progress or completion status of a specific scan.
 
@@ -81,7 +81,7 @@ Authorization: Bearer <access_token>
 
 ***
 
-### 🚨 3. List Alerts
+### 3. List Alerts
 
 Retrieves all recent security alerts, optionally filtered by severity or type.
 
@@ -119,7 +119,7 @@ Authorization: Bearer <access_token>
 
 ***
 
-### 📄 4. Retrieve Report
+### 4. Retrieve Report
 
 Downloads or retrieves a completed scan report in JSON or PDF format.
 
