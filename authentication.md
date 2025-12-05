@@ -1,6 +1,6 @@
-# 🔐 Authentication
+# Authentication
 
-## 🧱 Overview
+## Overview
 
 All CyberShield API endpoints require **Bearer Token–based authentication**. Before making any request, you must generate an **access token** using your **API Key** and **API Secret**. This ensures secure communication between your application and CyberShield’s backend systems.
 
@@ -8,7 +8,7 @@ All CyberShield API endpoints require **Bearer Token–based authentication**. B
 
 ***
 
-### 🧩 Generate Access Token
+### Generate Access Token
 
 Use the following endpoint to request a new access token:
 
@@ -46,7 +46,7 @@ Content-Type: application/json
 
 ***
 
-### 🔑 Use Access Token
+### Use Access Token
 
 Include the access token in the **Authorization header** of every request.
 
@@ -62,7 +62,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6...
 
 ***
 
-### 🔄 Refreshing Tokens
+### Refreshing Tokens
 
 Tokens automatically expire after 60 minutes.\
 To prevent service interruptions:
@@ -74,7 +74,7 @@ To prevent service interruptions:
 
 ***
 
-### 🧰 Common Authentication Errors
+### Common Authentication Errors
 
 | HTTP Code | Error             | Description                              | Recommended Action                         |
 | --------- | ----------------- | ---------------------------------------- | ------------------------------------------ |
